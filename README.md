@@ -7,10 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khang-ki%C3%AAm-03035732b/)
 
 ## 🏆 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Cutecatttt&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cutecatttt&theme=dark&show_icons=true&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=drakan02&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drakan02&theme=dark&show_icons=true&hide_border=true" width="48%">
 <!--
-**Cutecatttt/Cutecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drakan02/drakan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
